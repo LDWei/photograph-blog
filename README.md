@@ -5,3 +5,9 @@ this is my first project of php
 
 到后来，什么是动态网页呢？我开始接触了PHP，有一个很厉害的学长带一下很好，因为学校不开PHP 的课程，所以，所有的知识都是自学的。
 学完这些知识的基础，我完成了自己的第一个摄影网站，从开发到域名服务器部署到正式上线，全是自己摸索。这个摄影网站没有后台管理，因为我当时并不知道，你猜我怎么上传图片的吗？连接服务器，把自己要替换的图片上传的服务器的响应文件夹中。真是傻。。。
+![](https://github.com/LDWei/photograph-blog/blob/master/imgs/1.png)
+![](https://github.com/LDWei/photograph-blog/blob/master/imgs/2.png)
+![](https://github.com/LDWei/photograph-blog/blob/master/imgs/3.png)
+![](https://github.com/LDWei/photograph-blog/blob/master/imgs/4.png)
+![](https://github.com/LDWei/photograph-blog/blob/master/imgs/5.png)
+![](https://github.com/LDWei/photograph-blog/blob/master/imgs/6.png)
